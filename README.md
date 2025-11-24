@@ -1,6 +1,6 @@
 (source code in private responsitory)
 
-<h1>HI PHUAN JJ here</h1><h2>, this is my flutter app with admin page by using flutter,laravel and react.js</h2>
+<h1>HI PHUAN JJ here,</h1><h2>this is my flutter app with admin page by using flutter,laravel and react.js</h2>
 
 <p>In this project , I have use tech below:</p>
 
